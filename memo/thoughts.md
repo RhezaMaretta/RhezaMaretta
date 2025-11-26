@@ -6,3 +6,5 @@
 
 - Document moments of clarity whenever they appear.
 
+- Maintain a calm and thoughtful writing style.
+
