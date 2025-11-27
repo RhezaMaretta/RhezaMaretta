@@ -8,3 +8,5 @@
 
 - Maintain a calm and thoughtful writing style.
 
+- Capture short thoughts that might grow into bigger ideas.
+
