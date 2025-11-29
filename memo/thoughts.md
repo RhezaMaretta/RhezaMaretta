@@ -10,3 +10,5 @@
 
 - Capture short thoughts that might grow into bigger ideas.
 
+- Use brief summaries instead of long explanations.
+
