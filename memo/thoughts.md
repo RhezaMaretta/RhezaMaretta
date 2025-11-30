@@ -12,3 +12,5 @@
 
 - Use brief summaries instead of long explanations.
 
+- Highlight insights that appear during daily routines.
+
