@@ -14,3 +14,5 @@
 
 - Highlight insights that appear during daily routines.
 
+- Track what ideas feel worth expanding in the future.
+
