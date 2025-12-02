@@ -16,3 +16,5 @@
 
 - Track what ideas feel worth expanding in the future.
 
+- Avoid forcing conclusions; let ideas stay flexible.
+
