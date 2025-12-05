@@ -18,3 +18,5 @@
 
 - Avoid forcing conclusions; let ideas stay flexible.
 
+- Document moments of clarity whenever they appear.
+
