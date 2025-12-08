@@ -22,3 +22,7 @@
 
 - Maintain a calm and thoughtful writing style.
 
+
+Consider adding a README.md file explaining the purpose and usage of the repository.
+Explore the possibility of creating a CI/CD pipeline for automated testing and deployment.
+
