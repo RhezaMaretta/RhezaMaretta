@@ -31,3 +31,9 @@ Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 
 Explore potential for code examples or a demo section in the README.
 
+
+- Focus on clean, well-documented Python code.
+- Emphasize reusable components and modular design.
+- Consider a README with clear installation and usage instructions.
+- Implement unit tests for core functionalities.
+
