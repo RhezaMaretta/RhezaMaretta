@@ -37,3 +37,7 @@ Explore potential for code examples or a demo section in the README.
 - Consider a README with clear installation and usage instructions.
 - Implement unit tests for core functionalities.
 
+
+Consider adding a `CONTRIBUTING.md` file outlining contribution guidelines.
+Explore integrating a Continuous Integration/Continuous Deployment (CI/CD) pipeline for automated testing and deployment.
+
