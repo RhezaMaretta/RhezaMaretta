@@ -45,3 +45,7 @@ Explore integrating a Continuous Integration/Continuous Deployment (CI/CD) pipel
 *   Consider a CONTRIBUTING.md file to outline contribution guidelines and encourage community involvement.
 *   Add a README.md file with a clear project description, setup instructions, and usage examples.
 
+
+API documentation for project setup and usage.
+Consider a CONTRIBUTING.md file for community guidelines.
+
