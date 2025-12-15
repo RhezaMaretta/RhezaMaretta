@@ -53,3 +53,7 @@ Consider a CONTRIBUTING.md file for community guidelines.
 *   Consider adding a README.md with a project overview and setup instructions.
 *   Explore potential for unit tests to ensure code robustness.
 
+
+*   **Contribution guidelines**: Clearly outline how to contribute, including code style, testing, and pull request process.
+*   **Project roadmap**: Share future plans, feature requests, and priorities for community engagement.
+
