@@ -57,3 +57,8 @@ Consider a CONTRIBUTING.md file for community guidelines.
 *   **Contribution guidelines**: Clearly outline how to contribute, including code style, testing, and pull request process.
 *   **Project roadmap**: Share future plans, feature requests, and priorities for community engagement.
 
+
+Automate dependency updates with Dependabot.
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
