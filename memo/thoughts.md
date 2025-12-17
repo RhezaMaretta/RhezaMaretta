@@ -62,3 +62,8 @@ Automate dependency updates with Dependabot.
 
 Consider adding a CI/CD pipeline for automated testing and deployment.
 
+
+This repo likely contains personal projects or code samples from Rheza Maretta.
+
+Consider adding a `README.md` with a brief introduction to the repository's purpose and an overview of the projects within.
+
