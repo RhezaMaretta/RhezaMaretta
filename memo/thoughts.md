@@ -67,3 +67,7 @@ This repo likely contains personal projects or code samples from Rheza Maretta.
 
 Consider adding a `README.md` with a brief introduction to the repository's purpose and an overview of the projects within.
 
+
+Consider adding a contribution guide to outline how others can get involved.
+Explore CI/CD pipeline integration for automated testing and deployment.
+
