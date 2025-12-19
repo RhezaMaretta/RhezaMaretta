@@ -71,3 +71,6 @@ Consider adding a `README.md` with a brief introduction to the repository's purp
 Consider adding a contribution guide to outline how others can get involved.
 Explore CI/CD pipeline integration for automated testing and deployment.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines and a `CODE_OF_CONDUCT.md` to foster a welcoming community.
+
