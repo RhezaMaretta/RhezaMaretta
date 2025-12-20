@@ -74,3 +74,7 @@ Explore CI/CD pipeline integration for automated testing and deployment.
 
 Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines and a `CODE_OF_CONDUCT.md` to foster a welcoming community.
 
+
+Contribution to open-source projects.
+Explore and implement new machine learning algorithms.
+
