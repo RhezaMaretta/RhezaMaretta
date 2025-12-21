@@ -78,3 +78,8 @@ Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines and 
 Contribution to open-source projects.
 Explore and implement new machine learning algorithms.
 
+
+"RhezaMaretta" could be a portfolio repository.
+Consider a "Projects" section with clear descriptions and live demos/screenshots.
+Include a "Contact" or "About Me" section with social media links and a brief bio.
+
