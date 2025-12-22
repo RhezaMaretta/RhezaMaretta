@@ -83,3 +83,7 @@ Explore and implement new machine learning algorithms.
 Consider a "Projects" section with clear descriptions and live demos/screenshots.
 Include a "Contact" or "About Me" section with social media links and a brief bio.
 
+
+- **Project Documentation:** Consider adding a `README.md` file with a clear description of the project, its purpose, and instructions on how to set it up and use it.
+- **Contribution Guidelines:** If the repository is intended for collaboration, a `CONTRIBUTING.md` file outlining how others can contribute would be beneficial.
+
