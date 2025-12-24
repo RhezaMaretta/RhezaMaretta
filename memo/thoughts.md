@@ -87,3 +87,7 @@ Include a "Contact" or "About Me" section with social media links and a brief bi
 - **Project Documentation:** Consider adding a `README.md` file with a clear description of the project, its purpose, and instructions on how to set it up and use it.
 - **Contribution Guidelines:** If the repository is intended for collaboration, a `CONTRIBUTING.md` file outlining how others can contribute would be beneficial.
 
+
+*   Consider a README with examples of common RhezaMaretta usage and explanations.
+*   Think about adding unit tests to ensure core functionalities of RhezaMaretta are robust.
+
