@@ -91,3 +91,7 @@ Include a "Contact" or "About Me" section with social media links and a brief bi
 *   Consider a README with examples of common RhezaMaretta usage and explanations.
 *   Think about adding unit tests to ensure core functionalities of RhezaMaretta are robust.
 
+
+Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
