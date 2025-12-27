@@ -99,3 +99,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 *   **Contribution Guidelines:** Clearly define how others can contribute to the project (e.g., bug reports, feature requests, pull requests).
 *   **License:** Specify a clear, permissive license (e.g., MIT, Apache 2.0) to encourage broader adoption and use.
 
+
+Consider adding a contribution guide to outline how others can contribute.
+Explore adding a demo or example usage section in the README.
+
