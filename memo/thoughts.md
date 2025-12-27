@@ -103,3 +103,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 Consider adding a contribution guide to outline how others can contribute.
 Explore adding a demo or example usage section in the README.
 
+
+Consider adding a contribution guide.
+Explore options for CI/CD integration.
+
