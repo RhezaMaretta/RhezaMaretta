@@ -107,3 +107,7 @@ Explore adding a demo or example usage section in the README.
 Consider adding a contribution guide.
 Explore options for CI/CD integration.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to outline how others can contribute.
+*   Explore CI/CD pipelines for automated testing and deployment.
+
