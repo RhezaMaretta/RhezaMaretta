@@ -111,3 +111,7 @@ Explore options for CI/CD integration.
 *   Consider adding a `CONTRIBUTING.md` file to outline how others can contribute.
 *   Explore CI/CD pipelines for automated testing and deployment.
 
+
+*   Consider a dedicated `examples/` directory for practical demonstrations.
+*   Implement thorough unit tests for core functionalities.
+
