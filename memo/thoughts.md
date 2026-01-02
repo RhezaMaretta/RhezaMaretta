@@ -119,3 +119,7 @@ Explore options for CI/CD integration.
 - Add a CONTRIBUTING.md file for community contributions.
 - Implement GitHub Actions for automated testing and deployment.
 
+
+*   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+*   Explore integrating a CI/CD pipeline for automated testing and deployment.
+
