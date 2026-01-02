@@ -115,3 +115,7 @@ Explore options for CI/CD integration.
 *   Consider a dedicated `examples/` directory for practical demonstrations.
 *   Implement thorough unit tests for core functionalities.
 
+
+- Add a CONTRIBUTING.md file for community contributions.
+- Implement GitHub Actions for automated testing and deployment.
+
