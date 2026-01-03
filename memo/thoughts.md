@@ -123,3 +123,7 @@ Explore options for CI/CD integration.
 *   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 *   Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+- **Key focus areas**: Cloud infrastructure, CI/CD, infrastructure as code (IaC), automation.
+- **Potential projects**: Setting up a scalable Kubernetes cluster, implementing GitOps with Argo CD, developing reusable Terraform modules for common cloud resources.
+
