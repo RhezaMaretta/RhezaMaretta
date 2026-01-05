@@ -131,3 +131,7 @@ Explore options for CI/CD integration.
 *   Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 *   A `.gitignore` file is crucial for keeping the repository clean.
 
+
+Code samples for machine learning algorithms.
+Project ideas for beginner data scientists.
+
