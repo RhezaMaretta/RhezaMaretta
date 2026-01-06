@@ -135,3 +135,7 @@ Explore options for CI/CD integration.
 Code samples for machine learning algorithms.
 Project ideas for beginner data scientists.
 
+
+Unit test coverage
+Consider adding a CONTRIBUTING.md file
+
