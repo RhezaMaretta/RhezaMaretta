@@ -139,3 +139,8 @@ Project ideas for beginner data scientists.
 Unit test coverage
 Consider adding a CONTRIBUTING.md file
 
+
+Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
+
+Explore using GitHub Actions for automated testing and CI/CD.
+
