@@ -144,3 +144,8 @@ Consider adding a `CONTRIBUTING.md` file to guide potential contributors.
 
 Explore using GitHub Actions for automated testing and CI/CD.
 
+
+Code-splitting and lazy loading for performance.
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+
