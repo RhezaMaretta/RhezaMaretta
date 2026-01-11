@@ -149,3 +149,7 @@ Code-splitting and lazy loading for performance.
 
 Consider adding a CI/CD pipeline for automated testing and deployment.
 
+
+API documentation for each endpoint.
+Consider adding a contribution guide.
+
