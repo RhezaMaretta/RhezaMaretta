@@ -153,3 +153,7 @@ Consider adding a CI/CD pipeline for automated testing and deployment.
 API documentation for each endpoint.
 Consider adding a contribution guide.
 
+
+Focus on showcasing projects with clear problem statements and quantifiable results.
+Consider adding a "Projects" section with interactive demos or visual examples.
+
