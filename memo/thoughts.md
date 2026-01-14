@@ -161,3 +161,7 @@ Consider adding a "Projects" section with interactive demos or visual examples.
 *   Consider a README explaining the project's purpose and how to set it up.
 *   Potentially add unit tests for core functionalities.
 
+
+Potential for a personal portfolio website showcasing projects and skills.
+Could be a platform for sharing technical learning journeys and insights.
+
