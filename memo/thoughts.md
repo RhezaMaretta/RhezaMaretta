@@ -157,3 +157,7 @@ Consider adding a contribution guide.
 Focus on showcasing projects with clear problem statements and quantifiable results.
 Consider adding a "Projects" section with interactive demos or visual examples.
 
+
+*   Consider a README explaining the project's purpose and how to set it up.
+*   Potentially add unit tests for core functionalities.
+
