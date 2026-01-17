@@ -169,3 +169,7 @@ Could be a platform for sharing technical learning journeys and insights.
 *   Consider adding a project showcase or demo section to highlight key features and use cases.
 *   Implement a contribution guide to encourage community involvement.
 
+
+Consider adding a README.md with a clear project description and setup instructions.
+Explore adding contribution guidelines for potential collaborators.
+
