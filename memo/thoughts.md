@@ -173,3 +173,7 @@ Could be a platform for sharing technical learning journeys and insights.
 Consider adding a README.md with a clear project description and setup instructions.
 Explore adding contribution guidelines for potential collaborators.
 
+
+- Explore integrating CI/CD pipelines for automated testing and deployment.
+- Consider adding more illustrative examples of core functionalities.
+
