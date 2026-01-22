@@ -181,3 +181,7 @@ Explore adding contribution guidelines for potential collaborators.
 *   **Focus on API Design Principles:** Emphasize consistency, clarity, and discoverability in API endpoints.
 *   **Consider Event-Driven Architecture:** Explore using message queues (e.g., Kafka, RabbitMQ) for asynchronous processing and decoupling services.
 
+
+- Consider a README.md to introduce the repo and its purpose.
+- Implement unit tests for core functionalities.
+
