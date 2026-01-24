@@ -185,3 +185,8 @@ Explore adding contribution guidelines for potential collaborators.
 - Consider a README.md to introduce the repo and its purpose.
 - Implement unit tests for core functionalities.
 
+
+Add CONTRIBUTING.md detailing community guidelines and pull request process.
+
+Consider adding a GitHub Actions workflow for automated testing and deployment.
+
