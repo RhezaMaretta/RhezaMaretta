@@ -190,3 +190,7 @@ Add CONTRIBUTING.md detailing community guidelines and pull request process.
 
 Consider adding a GitHub Actions workflow for automated testing and deployment.
 
+
+1.  Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines and a `CODE_OF_CONDUCT.md` for community standards.
+2.  Explore integrating CI/CD pipelines (e.g., GitHub Actions, GitLab CI) for automated testing and deployment to streamline development workflow.
+
