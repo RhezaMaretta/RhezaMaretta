@@ -198,3 +198,7 @@ Consider adding a GitHub Actions workflow for automated testing and deployment.
 * Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 * Implement a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a README.md to explain the project's purpose and how to run it.
+Perhaps a contribution guide could be useful if multiple people will be working on the repository.
+
